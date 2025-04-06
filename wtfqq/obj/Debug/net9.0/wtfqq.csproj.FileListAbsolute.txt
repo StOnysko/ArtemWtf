@@ -1,0 +1,14 @@
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.AssemblyInfoInputs.cache
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.AssemblyInfo.cs
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.csproj.CoreCompileInputs.cache
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/bin/Debug/net9.0/wtfqq
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/bin/Debug/net9.0/wtfqq.deps.json
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/bin/Debug/net9.0/wtfqq.runtimeconfig.json
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/bin/Debug/net9.0/wtfqq.dll
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/bin/Debug/net9.0/wtfqq.pdb
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.dll
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/refint/wtfqq.dll
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.pdb
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/wtfqq.genruntimeconfig.cache
+/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/Debug/net9.0/ref/wtfqq.dll
