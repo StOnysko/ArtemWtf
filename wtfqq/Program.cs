@@ -1,6 +1,4 @@
-﻿using wtfqq.app.Laboratory;
-
-namespace wtfqq;
+﻿namespace wtfqq;
 
 public static class Program
 {
