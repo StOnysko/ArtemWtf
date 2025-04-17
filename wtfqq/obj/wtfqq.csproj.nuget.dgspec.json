@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/wtfqq.csproj": {}
+    "C:\\Users\\super\\RiderProjects\\ArtemWtf\\wtfqq\\wtfqq.csproj": {}
   },
   "projects": {
-    "/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/wtfqq.csproj": {
+    "C:\\Users\\super\\RiderProjects\\ArtemWtf\\wtfqq\\wtfqq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/wtfqq.csproj",
+        "projectUniqueName": "C:\\Users\\super\\RiderProjects\\ArtemWtf\\wtfqq\\wtfqq.csproj",
         "projectName": "wtfqq",
-        "projectPath": "/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/wtfqq.csproj",
-        "packagesPath": "/Users/stepanonysko/.nuget/packages/",
-        "outputPath": "/Users/stepanonysko/RiderProjects/wtfqq/wtfqq/obj/",
+        "projectPath": "C:\\Users\\super\\RiderProjects\\ArtemWtf\\wtfqq\\wtfqq.csproj",
+        "packagesPath": "C:\\Users\\super\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\super\\RiderProjects\\ArtemWtf\\wtfqq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stepanonysko/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\super\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/stepanonysko/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\super\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
