@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public static class Rozraha1
+public static class Rozraha2
 {
     public static void Start()
     {
