@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 public static class Rozraha2
 {
-    public static void Start()
+    public static void Calc()
     {
         const int passwordCount = 1000000;
         const int passwordLength = 12;
